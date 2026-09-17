@@ -1,0 +1,12 @@
+Merged demonstration video link (add before final submission):
+https://
+
+Video should show:
+- Each member explaining/demonstrating their own component
+- Add/Update/Delete/Display student records (Linked List)
+- Recent actions history (Stack)
+- Service request add/process (Queue)
+- Student display sorted by ID (AVL Tree)
+- Student search by ID (Hashing)
+- Add/remove campus locations and connections (Graph)
+- BFS and DFS traversal of the campus network
