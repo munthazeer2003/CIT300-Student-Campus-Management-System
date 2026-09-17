@@ -14,10 +14,10 @@ linked list, stack, queue, AVL tree, hash table, and graph within one system.
 
 | Name | Student ID | Email | Responsibility |
 |---|---|---|---|
-| RM. Almunthazeer | 23DA2-1148 | 23da2-1148@sltc.ac.lk | Linked list implementation and student-record management |
-| ABF. Sarafa | 23DA2-1167 | 23da2-1167@sltc.ac.lk | Stack and queue implementation and related operations |
-| RF. Riska | 23DA2-1137 | 23da2-1137@sltc.ac.lk | AVL tree implementation and hashing/search functionality |
-| JF. Sharafa | 23DA2-1117 | 23da2-1117@sltc.ac.lk | Graph implementation, campus locations/connections, BFS/DFS traversal |
+| Raheem Mohamad Almunthazeer | 23DA2-1148 | 23da2-1148@sltc.ac.lk | Linked list implementation and student-record management |
+| Athembawa Fathima Sarafa | 23DA2-1167 | 23da2-1167@sltc.ac.lk | Stack and queue implementation and related operations |
+| Rauf Fathima Riska | 23DA2-1137 | 23da2-1137@sltc.ac.lk | AVL tree implementation and hashing/search functionality |
+| Jabeer Fathima Sharafa | 23DA2-1117 | 23da2-1117@sltc.ac.lk | Graph implementation, campus locations/connections, BFS/DFS traversal |
 
 *All members: integration, validation, testing, debugging, documentation, GitHub collaboration.*
 

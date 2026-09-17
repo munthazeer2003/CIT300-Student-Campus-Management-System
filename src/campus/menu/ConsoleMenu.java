@@ -10,7 +10,6 @@ import campus.stack.Action;
 import campus.stack.ActionStack;
 import campus.tree.StudentAVLTree;
 import campus.util.InputValidator;
-
 import java.util.List;
 import java.util.Scanner;
 
@@ -145,7 +144,7 @@ public class ConsoleMenu {
         if (!marksInput.isEmpty()) {
             try {
                 double parsed = Double.parseDouble(marksInput);
-                if (parsed < 0 || parsed > 100) {
+                if (Double.isNaN(parsed) || Double.isInfinite(parsed) || parsed < 0 || parsed > 100) {
                     System.out.println("Invalid marks value (must be 0-100); keeping original.");
                 } else {
                     marks = parsed;
