@@ -26,7 +26,7 @@ public class InputValidator {
             String input = sc.nextLine().trim();
             try {
                 double marks = Double.parseDouble(input);
-                if (marks < 0 || marks > 100) {
+                if (Double.isNaN(marks) || Double.isInfinite(marks) || marks < 0 || marks > 100) {
                     System.out.println("Marks must be between 0 and 100. Please try again.");
                     continue;
                 }
