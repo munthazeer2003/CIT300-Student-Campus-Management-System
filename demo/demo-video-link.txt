@@ -1,5 +1,5 @@
 Merged demonstration video link (add before final submission):
-https://drive.google.com/drive/folders/1y60UgGDGiJar2LSNzQgigIYCSCuYyWpV?usp=drive_link
+https://drive.google.com/file/d/1sXCYZDyR3AFwOyX4Mghh61ebIVCJottW/view?usp=drive_link
 
 Video should show:
 - Each member explaining/demonstrating their own component
